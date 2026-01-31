@@ -1,4 +1,4 @@
-# 📘 Cartilha de Boas Práticas em UX/UI
+# 📘 Interfaces Digitais: Erros e Acertos sob a Ótica da UX
 
 ## 📌 Apresentação do Projeto
 Este projeto consiste no desenvolvimento de uma cartilha educativa voltada à análise e comparação de interfaces digitais, destacando exemplos de boas e más práticas em UX/UI.
