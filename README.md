@@ -19,4 +19,4 @@ Com a evolução de aplicativos e sites, as interfaces digitais passaram a incor
 - Nereu Vítor Pereira Lima  
 - Emanoel Victor Rocha Bezerra
    
-<sub>Projeto de Interface e Experiência do Usuário - 2025.2 • <b>Sistemas Para Internet - IF Campus Salgueiro</b></sub>
+<sub>Projeto de Interface e Experiência do Usuário - 2025.2 • <b>Sistemas Para Internet - IFSertãoPE Campus Salgueiro</b></sub>
